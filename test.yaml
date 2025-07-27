@@ -1,2 +1,3 @@
-test: "blue"
-dude: potato
+---
+container_engine: docker
+default_size_limit: 500M
